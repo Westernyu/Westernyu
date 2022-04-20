@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Westernyu
+- 👋 Hi, I’m @westernyu
 - 👀 I’m interested in DA and DS
 - 🌱 I’m currently learning STATISTICS and DE
 - 💞️ I’m looking to collaborate on DA or DS
